@@ -1,0 +1,12 @@
+#main-navbar {
+  background-color: blue;
+  width: 100%;
+}
+
+#sidebar {
+  background-color: red;
+  right: 0%;
+  position: fixed;
+  width: 20%;
+  height: 100%;
+}
