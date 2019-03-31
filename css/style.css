@@ -13,9 +13,21 @@
   position: fixed;
   width: 20%;
   height: 100%;
+  text-align: center;
 }
 
 #sidebar-container ul {
   list-style-type: none;
   padding: 0;
+}
+
+#sidebar-container ul li a {
+  display: block;
+  padding: 15px 0;
+  text-decoration: none;
+  color: #fff;
+}
+
+#sidebar-container ul li a:hover {
+  background-color: #000;
 }
