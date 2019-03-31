@@ -6,27 +6,33 @@
 }
 
 #navbar-container {
-
+  position: relative;
+  display: block;
+  float: left;
+  left: 50%;
 }
 
 #navbar-container ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  position: relative;
+  display: block;
+  float: left;
+  right: 50%;
 }
 
 #navbar-container ul li {
   float: left;
+  padding: 10px 20px;
 }
 
 #navbar-container ul li a {
-  display: block;
-  padding: 10px 20px;
   text-decoration: none;
   color: #fff;
 }
 
-#main-navbar ul li a:hover {
+#main-navbar ul li:hover {
   background-color: #000;
 }
 
