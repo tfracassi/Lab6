@@ -7,6 +7,17 @@
   list-style-type: none;
   vertical-align: top;
 }
+
+#main-navbar ul li {
+  float: left;
+  padding: 10px 20px;
+}
+
+#main-navbar ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
 #sidebar {
   position: fixed;
   right: 0%;
