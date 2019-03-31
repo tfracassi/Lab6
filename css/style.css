@@ -6,15 +6,13 @@
 }
 
 #navbar-container {
-  text-align: center;
+
 }
 
 #navbar-container ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  display: inline-block;
-  vertical-align: top;
 }
 
 #navbar-container ul li {
