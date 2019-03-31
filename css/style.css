@@ -3,10 +3,19 @@
   width: 100%;
 }
 
-#sidebar {
+#main-navbar ul {
+  list-style-type: none;
+  vertical-align: top;
+}
+#sidebar-container {
   background-color: red;
   right: 0%;
   position: fixed;
   width: 20%;
   height: 100%;
+}
+
+#sidebar-container ul {
+  list-style-type: none;
+  padding: 0;
 }
