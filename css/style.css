@@ -5,6 +5,9 @@
 
 #main-navbar ul {
   list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
   vertical-align: top;
 }
 
@@ -45,6 +48,6 @@
   color: #fff;
 }
 
-#sidebar-container ul li a:hover {
+#sidebar-container ul li:hover {
   background-color: #000;
 }
