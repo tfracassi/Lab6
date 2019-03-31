@@ -28,6 +28,14 @@
   color: #fff;
 }
 
+#main-navbar ul li a:hover {
+  background-color: #000;
+}
+
+#navbar-container #onpage {
+  text-decoration: underline overline;
+}
+
 #sidebar {
   position: fixed;
   right: 0%;
